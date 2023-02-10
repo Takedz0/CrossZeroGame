@@ -84,5 +84,5 @@ while True:
         field(m)
         break
     if count == 9:
-        print('Ничья')
+        print('Ничья')Раб
         break
